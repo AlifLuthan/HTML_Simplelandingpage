@@ -1,0 +1,52 @@
+/*Membungkus background tampilan*/
+.wrap{
+	background: #c6d4e1;
+	width: 1000px;
+    margin: 30px auto;
+}
+/*Kepala*/
+.kepala{
+    background: #44749d;
+	padding: 2px 10px;
+}
+/*Badan*/
+.Badan{
+    background: #ebe7e0;
+    padding: 2px 7px;
+}
+/*tangan*/
+.sidebar{
+    background: #FAEBD7;
+	float: left;	
+	width: 30%;
+	height: 43%;
+}
+.sidebar .ul{
+    padding: 0;
+	margin: 0;
+	background: #5F9EA0;
+}
+.sidebar .li{
+    float: left;
+    padding: 10px;
+}
+/*Konten videos*/
+.konten {
+    float: left;
+    background:white;
+}
+}
+.video{
+    float: left;
+    background-color: #FAEBD7;
+}
+.video video{
+    float: left;
+    width: 700px;
+    height: 400px;
+}
+/*footer*/
+.wrap .Kaki{
+    float: left;
+    padding: 0px;
+}
